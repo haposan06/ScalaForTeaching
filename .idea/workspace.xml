@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="" />
+    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/lectures/part1basics/Recursions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part1basics/Recursions$.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/playground/JavaPlayground.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/playground/ScalaPlayground.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/Expressions.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -67,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/Recursions.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="419">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -76,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/CBNvsCBV.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -90,11 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/StringsOps.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -120,6 +119,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -132,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/lectures/part1basics/CBNvsCBV.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part1basics/DefaultNamedArguments.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part1basics/StringsOps.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" />
       </list>
     </option>
   </component>
@@ -143,10 +146,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="139" />
+    <option name="x" value="140" />
     <option name="y" value="23" />
-    <option name="width" value="1402" />
+    <option name="width" value="1400" />
     <option name="height" value="908" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -186,6 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -204,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursions">
+  <component name="RunManager" selected="Application.OOBasics">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Expressions" />
       <module name="InitialProject" />
@@ -218,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPlayground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.JavaPlayground" />
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
       <module name="InitialProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOBasics" />
         <item itemvalue="Application.Recursions" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.ValueVariableTypes" />
         <item itemvalue="Application.ScalaPlayground" />
-        <item itemvalue="Application.JavaPlayground" />
       </list>
     </recent_temporary>
   </component>
@@ -293,15 +300,16 @@
       <workItem from="1563703918484" duration="4289000" />
       <workItem from="1563715588825" duration="305000" />
       <workItem from="1563715915187" duration="151000" />
-      <workItem from="1563716080682" duration="9521000" />
+      <workItem from="1563716080682" duration="14558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14266000" />
+    <option name="totallyTimeSpent" value="19303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="929" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -312,7 +320,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297491" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,7 +328,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297491" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3297491" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -376,7 +384,7 @@
     <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/Expressions.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -390,14 +398,14 @@
     <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/Recursions.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part1basics/CBNvsCBV.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -412,6 +420,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
