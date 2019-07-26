@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="" />
+    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="360">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Generics.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -53,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala" />
         <option value="$PROJECT_DIR$/src/exercises/MyList.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" />
       </list>
     </option>
   </component>
@@ -64,10 +76,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="140" />
+    <option name="x" value="24" />
     <option name="y" value="23" />
-    <option name="width" value="1400" />
-    <option name="height" value="908" />
+    <option name="width" value="1632" />
+    <option name="height" value="940" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -77,8 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +130,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +154,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestList">
+  <component name="RunManager" selected="Application.Generics">
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Generics" />
+      <module name="InitialProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part2oop.InheritanceAndTraits" />
       <module name="InitialProject" />
@@ -158,19 +183,6 @@
     </configuration>
     <configuration name="MethodNotation" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part2oop.MethodNotation" />
-      <module name="InitialProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lectures.part2oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
       <module name="InitialProject" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Generics" />
         <item itemvalue="Application.TestList" />
         <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.Objects" />
         <item itemvalue="Application.MethodNotation" />
-        <item itemvalue="Application.OOBasics" />
       </list>
     </recent_temporary>
   </component>
@@ -232,18 +244,19 @@
       <workItem from="1563715588825" duration="305000" />
       <workItem from="1563715915187" duration="151000" />
       <workItem from="1563716080682" duration="14558000" />
-      <workItem from="1563966509160" duration="14659000" />
+      <workItem from="1563966509160" duration="15843000" />
+      <workItem from="1564109928764" duration="3052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33962000" />
+    <option name="totallyTimeSpent" value="38198000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="908" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="944" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -255,12 +268,12 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39950982" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32965687" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32965687" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32965687" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286385" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32965687" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -431,8 +444,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="360">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Generics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
