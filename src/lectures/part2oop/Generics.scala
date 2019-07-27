@@ -42,12 +42,15 @@ object Generics extends App {
     def add[B >: A](n:B): MyList[B]
   }
 
-  object Empty[A] extends MyList {
-    def head: A = throw new NoSuchElementException
-    def tail : MyList = throw new NoSuchElementException
+  object Empty extends MyList[Nothing] {
+    def head: Nothing = throw new NoSuchElementException
+    def tail : MyList[Nothing] = throw new NoSuchElementException
     def isEmpty: Boolean = true
-    def add(n:Int): MyList = new Cons(n, Empty)
+    def add[B>:Nothing](n:B): MyList[B] = new Cons(n, Empty)
   }
+
+  var listOfIntegerss:MyList[Int] = Empty
+  var listOfStringss:MyList[String] = Empty
 
   class Cons[+A](h: A, t: MyList[A]) extends MyList[A] {
     def head: A = h
@@ -55,6 +58,8 @@ object Generics extends App {
     def isEmpty: Boolean = false
     def add[B>:A](n:B): MyList[B] = new Cons(n, this)
   }
+
+//  var anonymou
 
 
 }
