@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="is">
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$$anon$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$$anon$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$$anon$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$Cons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$Empty$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$MyList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$MyPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$MyTransformer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/AnonymousClasses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics$Cons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics$Empty$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics$MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics$CovariantList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics$CovariantList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/lectures/part2oop/Generics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/MyList.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,20 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="-676">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="80" column="39" lean-forward="true" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
+            <state relative-caret-position="183">
+              <caret line="78" column="3" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="78" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -86,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala" />
         <option value="$PROJECT_DIR$/src/exercises/MyList.scala" />
       </list>
     </option>
@@ -267,12 +256,12 @@
       <workItem from="1563715915187" duration="151000" />
       <workItem from="1563716080682" duration="14558000" />
       <workItem from="1563966509160" duration="15843000" />
-      <workItem from="1564109928764" duration="18023000" />
+      <workItem from="1564109928764" duration="19271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53169000" />
+    <option name="totallyTimeSpent" value="54417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="901" extended-state="6" />
@@ -478,17 +467,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="80" column="39" lean-forward="true" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
+        <state relative-caret-position="183">
+          <caret line="78" column="3" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="78" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-676">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
