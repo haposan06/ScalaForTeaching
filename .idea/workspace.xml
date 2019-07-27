@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="is">
-      <change beforePath="$PROJECT_DIR$/src/exercises/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/MyList.scala" afterDir="false" />
-    </list>
+    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="is" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-676">
+            <state relative-caret-position="-425">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -76,6 +92,8 @@
         <option value="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala" />
         <option value="$PROJECT_DIR$/src/exercises/MyList.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala" />
       </list>
     </option>
   </component>
@@ -256,18 +274,17 @@
       <workItem from="1563715915187" duration="151000" />
       <workItem from="1563716080682" duration="14558000" />
       <workItem from="1563966509160" duration="15843000" />
-      <workItem from="1564109928764" duration="19271000" />
+      <workItem from="1564109928764" duration="21031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54417000" />
+    <option name="totallyTimeSpent" value="56177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="901" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +301,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3461063" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3461063" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3275649" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -483,8 +500,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-676">
+        <state relative-caret-position="-425">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
