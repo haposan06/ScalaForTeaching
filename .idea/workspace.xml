@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="is" />
+    <list default="true" id="a79e358e-94f6-4899-b139-0f74d5e202d8" name="Default Changelist" comment="is">
+      <change afterPath="$PROJECT_DIR$/src/lectures/part3fp/WhatsFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/exercises/Cons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/exercises/Cons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/exercises/Empty$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/exercises/Empty$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/exercises/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/exercises/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/exercises/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/exercises/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/exercises/TestList$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/exercises/TestList$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/exercises/TestList$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/exercises/TestList$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InitialProject/exercises/TestList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InitialProject/exercises/TestList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
+            <state relative-caret-position="60">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
@@ -32,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -41,11 +52,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/WhatsFunction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="78" column="3" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="78" selection-end-column="3" />
+            <state relative-caret-position="637">
+              <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -65,8 +85,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Package Object" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mypredi</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,11 +115,12 @@
         <option value="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataType.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" />
-        <option value="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala" />
         <option value="$PROJECT_DIR$/src/exercises/MyList.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part3fp/WhatsFunction.scala" />
       </list>
     </option>
   </component>
@@ -105,10 +132,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="24" />
+    <option name="x" value="23" />
     <option name="y" value="23" />
-    <option name="width" value="1632" />
-    <option name="height" value="940" />
+    <option name="width" value="1634" />
+    <option name="height" value="901" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -118,6 +145,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,14 +182,19 @@
               <item name="InitialProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="InitialProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lectures" type="462c0819:PsiDirectoryNode" />
+              <item name="part3fp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InitialProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InitialProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="playground" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnonymousClasses">
+  <component name="RunManager" selected="Application.WhatsFunction">
     <configuration name="AnonymousClasses" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part2oop.AnonymousClasses" />
       <module name="InitialProject" />
@@ -223,19 +257,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objects" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Objects" />
-      <module name="InitialProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lectures.part2oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestList" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="exercises.TestList" />
       <module name="InitialProject" />
@@ -249,13 +270,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhatsFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.WhatsFunction" />
+      <module name="InitialProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhatsFunction" />
         <item itemvalue="Application.AnonymousClasses" />
         <item itemvalue="Application.Generics" />
         <item itemvalue="Application.TestList" />
         <item itemvalue="Application.InheritanceAndTraits" />
-        <item itemvalue="Application.Objects" />
       </list>
     </recent_temporary>
   </component>
@@ -274,17 +308,21 @@
       <workItem from="1563715915187" duration="151000" />
       <workItem from="1563716080682" duration="14558000" />
       <workItem from="1563966509160" duration="15843000" />
-      <workItem from="1564109928764" duration="21031000" />
+      <workItem from="1564109928764" duration="22719000" />
+      <workItem from="1564302860975" duration="16000" />
+      <workItem from="1564303274486" duration="2259000" />
+      <workItem from="1564457493750" duration="4171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56177000" />
+    <option name="totallyTimeSpent" value="64311000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="901" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="929" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2741148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,14 +334,14 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39950982" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3275649" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32735962" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3461063" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3461063" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3275649" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32735962" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -477,30 +515,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.0-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="421" column="41" selection-start-line="421" selection-start-column="41" selection-end-line="421" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="78" column="3" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="78" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/exercises/MyList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
+        <state relative-caret-position="60">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
@@ -516,6 +534,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.0-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="157" column="7" selection-start-line="157" selection-start-column="7" selection-end-line="157" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/WhatsFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
