@@ -28,13 +28,27 @@ object HofsNCurries extends App {
       y + x
     }
   }
-      val res= supperAdder(1)(3)
+      val res= supperAdder(1)
   println(res)
       val plus10 = nTimesBetter(x=> x+1, 10)
 
       def curriedFormatter(c:String)(d:Double):String = c.format(d)
-      val standardFormat = curriedFormatter("%4.2f")
-      val resString = standardFormat(3)
+      val standardFormat: Double=>String= curriedFormatter("%4.2f")
+      val resString = standardFormat(Math.PI)
+      println(resString)
 
+
+  def toCurry(f:(Int,Int)=>Int):Int=>Int=>Int = x=>y=> f(x,y)
+  def fromCurry(f:Int=>Int=>Int):(Int,Int)=>Int = (x,y)=> f(x)(y)
+
+  def compose[A,B,T](f:A=>B, g:T=>A): T=>B = {
+    x=>f(g(x))
+  }
+
+  def andThen[A,B,C](f:A=>B,g:B=>C):A=>C = {
+    x=>g(f(x))
+  }
+
+  def superAdder2: (Int=>Int=>Int) = toCurry(_+_)
 
 }
