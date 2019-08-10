@@ -12,6 +12,10 @@ object Inheritance extends App {
     override def eat = "crunch crunch"
   }
 
+  class Cat extends Animal {
+    override def eat = "crunch crunch"
+  }
+
   val dog = new Dog
   println(dog.eat)
 }
